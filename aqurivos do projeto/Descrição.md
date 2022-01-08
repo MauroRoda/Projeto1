@@ -1,5 +1,3 @@
-Estou desenvolvendo este projeto para treino da linguagem.
+Estou desenvolvendo este projeto para treino.
 
-tem como objetivo realizar a venda de Notebooks
-
-uma das funçoes é um atalho para verificar mais fotos do produto, ao clicar é aberto uma nova tela
+O projeto tem como objetivo criar uma pagina web de vendas, onde cada produto possui um atalho onde ao clicar é aberto outra pagina com mais fotos do produto.
